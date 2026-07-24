@@ -8,11 +8,11 @@
   "server": {
     "ip": "Diutuper.aternos.me",
     "port": 64851,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
